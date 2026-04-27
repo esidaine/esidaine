@@ -1,9 +1,11 @@
-### MSc Student in Neural Systems and Computation @ ETH Zurich and UZH | Computational and Theoretical Neuroscience 
+<div align="center">
+  <h2>MSc Student in Neural Systems and Computation</h2>
+  <h4>@ ETH Zurich and UZH | Computational & Theoretical Neuroscience</h4>
+</div>
 
 ### 🔬 Current Research
 Currently, I am conducting my research at the **Institute of Neuroinformatics (ETH Zurich / UZH)** under the supervision of **Benjamin Grewe** and **Pau Vilimelis Aceituno**. 
-* **Project:** Implementing a dynamical model of target learning using Proportional-Integral-Derivative (PID) control mechanisms.
-* **Focus:** Formulating biologically plausible solutions to learning within networks of pyramidal neurons
+
 ### 🧠 Core Research Interests
 * **Theory of Learning:** Local synaptic plasticity, homeostatic plasticity, individual learning trajectories
 * **Dendritic Computation:** Multi-compartment models, apical/basal functional segregation.
