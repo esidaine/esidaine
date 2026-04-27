@@ -1,4 +1,3 @@
-## Hi, I'm Emilly Sidaine-Daumiller 👋
 ### MSc Student in Neural Systems and Computation @ ETH Zurich and UZH | Computational and Theoretical Neuroscience 
 
 ### 🔬 Current Research
