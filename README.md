@@ -1,10 +1,9 @@
 <div align="center">
   <h2>MSc Student in Neural Systems and Computation</h2>
-  <h4>@ ETH Zurich and UZH | Computational & Theoretical Neuroscience</h4>
 </div>
 
 ### 🔬 Current Research
-Currently, I am conducting my research at the **Institute of Neuroinformatics (ETH Zurich / UZH)** under the supervision of **Benjamin Grewe** and **Pau Vilimelis Aceituno**. 
+Currently, I am doing my Master's Thesis at the **Gatsby Unit UCL**. Besides, I'm a Master's student at **ETH Zurich  and UZH**.
 
 ### 🧠 Core Research Interests
 * **Theory of Learning:** Local synaptic plasticity, homeostatic plasticity, individual learning trajectories
