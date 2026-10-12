@@ -2,8 +2,7 @@
   <h2>MSc Student in Neural Systems and Computation</h2>
 </div>
 
-### 🔬 Current Research
-Currently, I am doing my Master's Thesis at the **Gatsby Unit UCL**. Besides, I'm a Master's student at **ETH Zurich  and UZH**.
+Master's Thesis at the **Gatsby Computational Neuroscience Unit UCL** and Master's student at **UZH and ETH Zurich**.
 
 ### 🧠 Research Interests
 * **Theory of Learning:** Local synaptic plasticity, homeostatic plasticity, individual learning trajectories
