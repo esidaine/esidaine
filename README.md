@@ -5,13 +5,8 @@
 ### 🔬 Current Research
 Currently, I am doing my Master's Thesis at the **Gatsby Unit UCL**. Besides, I'm a Master's student at **ETH Zurich  and UZH**.
 
-### 🧠 Core Research Interests
+### 🧠 Research Interests
 * **Theory of Learning:** Local synaptic plasticity, homeostatic plasticity, individual learning trajectories
 * **Dendritic Computation:** Multi-compartment models, apical/basal functional segregation.
 * **Normative & Information-Theoretic Models:** Information load, compression/representation, resource constraints
 * **Dynamical Systems:** Attractor networks, neural control theory, and continuous-time network dynamics.
-
-### 💻 Technical Stack
-* **Languages:** Python
-* **Scientific Computing:** PyTorch, NumPy, SciPy, Pandas
-* **Tools & Version Control:** Git, GitHub
